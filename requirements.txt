@@ -1,0 +1,17 @@
+# Data manipulation and analysis
+pandas==1.5.3
+numpy==1.24.2
+
+# Data visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Machine Learning
+scikit-learn==1.2.2
+
+# Jupyter notebook environment
+jupyter==1.0.0
+
+# Optional: For enhanced visualizations or saving models
+xgboost==1.7.4      # If using XGBoost
+joblib==1.2.0       # For saving/loading models
