@@ -7,7 +7,7 @@ The objective is to create a classification model capable of assisting the bank'
 
 Steps Involved
 
- 1.Data Preprocessing and Visualization
+1. Data Preprocessing and Visualization
 - Cleaning the data for inconsistencies and missing values.
 - Exploring the data through visualizations to identify patterns and trends.
 
