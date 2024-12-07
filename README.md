@@ -27,5 +27,5 @@ Real-World Applications
 This project demonstrates how data-driven approaches can improve marketing strategies, resource allocation, customer relationship management, and risk assessment in financial institutions.
 
 Contributions
-Part 1 (Data Preprocessing & Visualization) My main responsibility
-Part 2 (Model Training): Helped with part 2
+- Part 1 (Data Preprocessing & Visualization) My main responsibility
+- Part 2 (Model Training): Helped with part 2
